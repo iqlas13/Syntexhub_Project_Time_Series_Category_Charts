@@ -73,4 +73,4 @@ This project demonstrates how effective data visualization techniques can be use
 
 ## Author
 **Iqlas Tharannum**  
-Syntexhub – Week 2 Project
+Syntexhub – Week 2 Project 1
